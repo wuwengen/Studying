@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/software/CMake/share/cmake-3.17/Modules/CMakeCInformation.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeCXXInformation.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeGenericSystem.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeRCInformation.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake
+D:/software/CMake/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Platform/Windows.cmake
+D:/software/CMake/share/cmake-3.17/Modules/Platform/WindowsPaths.cmake
+E:/my-code/github/_wu/Studying/CMakeLists.txt
+E:/my-code/github/_wu/Studying/build/CMakeFiles/3.17.2/CMakeCCompiler.cmake
+E:/my-code/github/_wu/Studying/build/CMakeFiles/3.17.2/CMakeCXXCompiler.cmake
+E:/my-code/github/_wu/Studying/build/CMakeFiles/3.17.2/CMakeRCCompiler.cmake
+E:/my-code/github/_wu/Studying/build/CMakeFiles/3.17.2/CMakeSystem.cmake

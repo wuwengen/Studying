@@ -1,0 +1,10 @@
+^E:\MY-CODE\GITHUB\_WU\STUDYING\BUILD\CMAKEFILES\6EC44B5F94D384ACE1FA14648EB7B99E\GENERATE.STAMP.RULE
+setlocal
+D:\software\CMake\bin\cmake.exe -SE:/my-code/github/_wu/Studying -BE:/my-code/github/_wu/Studying/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/my-code/github/_wu/Studying/build/Studying.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
